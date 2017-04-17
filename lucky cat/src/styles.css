@@ -1,0 +1,15 @@
+p, h1, img, body {
+	text-align: center;
+}
+
+h2, h3 {
+  background-color: green;
+  color: white;
+  text-align: center;
+  font-family: Arial, san-serif;
+  font-size: 30px;
+  padding: 17px;
+}
+body {
+  background-color: lightblue;
+}
